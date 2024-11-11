@@ -1,6 +1,3 @@
-Here is an example of a `README.md` with the requested information. You can adjust the times and specific challenges to reflect your personal experience.
-
----
 
 # Social Media API Project
 
