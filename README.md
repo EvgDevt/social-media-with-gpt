@@ -54,7 +54,7 @@ This project is a simple RESTful API for a social media application built using 
 ## Usage
 
 ### Running the Application
-1. **Set up the PostgreSQL database** with the appropriate credentials in `application.properties`.
+1. **Set up the PostgreSQL database** with the appropriate credentials in `application.yml`.
 2. **Build and run** the application with:
    ```bash
    mvn spring-boot:run
